@@ -1,0 +1,12 @@
+#firstDiv {
+    background-color: aqua;
+    width: 100px;
+    height: 120px;
+    border: 2px solid yellow;
+}
+#bigDiv {
+    background-color: rgb(56, 59, 59);
+    width: 200px;
+    height: 250px;
+    border: 1px dashed rgb(58, 58, 2);
+}
